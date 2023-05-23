@@ -1,0 +1,11 @@
+artifact_path: modelo_linear_encapsulado_estudante_escola
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.3.1
+model_uuid: 0cbad72845cf49358a30a6322b115e0d
+run_id: 936452f8920d44e29925f798b2ec284f
+utc_time_created: '2023-05-11 18:00:03.613695'

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/132564916149237610/efa2f161eceb4b99a1a20e74125cb04d/artifacts
+deleted_time: 1683750058601
+end_time: 1683748265138
+entry_point_name: ''
+experiment_id: '132564916149237610'
+lifecycle_stage: deleted
+run_id: efa2f161eceb4b99a1a20e74125cb04d
+run_name: Modelo Linear Nulo - Encapsulado
+run_uuid: efa2f161eceb4b99a1a20e74125cb04d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683748259125
+status: 3
+tags: []
+user_id: Soares

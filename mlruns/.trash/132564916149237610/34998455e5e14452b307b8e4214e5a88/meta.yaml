@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/132564916149237610/34998455e5e14452b307b8e4214e5a88/artifacts
+deleted_time: 1683752254462
+end_time: 1683752128416
+entry_point_name: ''
+experiment_id: '132564916149237610'
+lifecycle_stage: deleted
+run_id: 34998455e5e14452b307b8e4214e5a88
+run_name: Modelo HLM2 Interceptos Aleatórios
+run_uuid: 34998455e5e14452b307b8e4214e5a88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683752122017
+status: 3
+tags: []
+user_id: Soares

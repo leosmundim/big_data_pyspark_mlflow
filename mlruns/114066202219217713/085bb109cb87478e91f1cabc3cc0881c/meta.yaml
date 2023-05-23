@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114066202219217713/085bb109cb87478e91f1cabc3cc0881c/artifacts
+end_time: 1683829321476
+entry_point_name: ''
+experiment_id: '114066202219217713'
+lifecycle_stage: active
+run_id: 085bb109cb87478e91f1cabc3cc0881c
+run_name: Modelo HLM2 Interceptos Aleatórios
+run_uuid: 085bb109cb87478e91f1cabc3cc0881c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683829314397
+status: 3
+tags: []
+user_id: Soares

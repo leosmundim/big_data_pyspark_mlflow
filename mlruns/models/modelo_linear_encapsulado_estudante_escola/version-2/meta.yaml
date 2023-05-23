@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683752529534
+current_stage: Archived
+description: ''
+last_updated_timestamp: 1683756965014
+name: modelo_linear_encapsulado_estudante_escola
+run_id: 0800bc805d2d4f9ab5da93f2e3fe9b88
+run_link: ''
+source: mlflow-artifacts:/132564916149237610/0800bc805d2d4f9ab5da93f2e3fe9b88/artifacts/modelo_hlm2_intercepto_inclinacao
+status: READY
+status_message: null
+user_id: null
+version: 2

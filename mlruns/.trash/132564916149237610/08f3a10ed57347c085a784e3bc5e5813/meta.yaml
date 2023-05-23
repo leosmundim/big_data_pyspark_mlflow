@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/132564916149237610/08f3a10ed57347c085a784e3bc5e5813/artifacts
+deleted_time: 1683828425016
+end_time: 1683828186895
+entry_point_name: ''
+experiment_id: '132564916149237610'
+lifecycle_stage: deleted
+run_id: 08f3a10ed57347c085a784e3bc5e5813
+run_name: Modelo Linear texp + horas
+run_uuid: 08f3a10ed57347c085a784e3bc5e5813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683828180830
+status: 3
+tags: []
+user_id: Soares

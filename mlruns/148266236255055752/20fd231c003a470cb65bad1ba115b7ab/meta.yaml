@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/leomu/OneDrive/MBA/Big%20Data/python/mlruns/148266236255055752/20fd231c003a470cb65bad1ba115b7ab/artifacts
+deleted_time: 1683756316050
+end_time: 1683756271989
+entry_point_name: ''
+experiment_id: '148266236255055752'
+lifecycle_stage: deleted
+run_id: 20fd231c003a470cb65bad1ba115b7ab
+run_name: Modelo Logistico Final
+run_uuid: 20fd231c003a470cb65bad1ba115b7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683756266958
+status: 3
+tags: []
+user_id: Soares

@@ -1,0 +1,1 @@
+[{"run_id": "dbc6b4f896314c61b1aae7aec0027018", "artifact_path": "modelo_logistico_doenca", "utc_time_created": "2023-05-10 22:05:26.845460", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.2.1", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "e628ee9a6ff543968f3e36e3d4632c8b", "mlflow_version": "2.3.1"}]

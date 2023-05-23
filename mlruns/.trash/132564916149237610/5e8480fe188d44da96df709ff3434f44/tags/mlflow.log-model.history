@@ -1,0 +1,1 @@
+[{"run_id": "5e8480fe188d44da96df709ff3434f44", "artifact_path": "modelo_encapsulado_estudante_escola", "utc_time_created": "2023-05-10 20:22:17.361826", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.2.1", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "1aa5b6090ad94d7987f92a402c00d77e", "mlflow_version": "2.3.1"}]

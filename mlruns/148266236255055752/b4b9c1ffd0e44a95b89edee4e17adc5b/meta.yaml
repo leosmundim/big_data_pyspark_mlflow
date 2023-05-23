@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/leomu/OneDrive/MBA/Big%20Data/python/mlruns/148266236255055752/b4b9c1ffd0e44a95b89edee4e17adc5b/artifacts
+deleted_time: 1683756316051
+end_time: 1683756266929
+entry_point_name: ''
+experiment_id: '148266236255055752'
+lifecycle_stage: deleted
+run_id: b4b9c1ffd0e44a95b89edee4e17adc5b
+run_name: Modelo Logistico Inicial
+run_uuid: b4b9c1ffd0e44a95b89edee4e17adc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683756261605
+status: 3
+tags: []
+user_id: Soares

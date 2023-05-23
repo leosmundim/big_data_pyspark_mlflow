@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b3fa965264e344a9bb34b8d7ddc9f86a/artifacts
+end_time: 1683828103225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b3fa965264e344a9bb34b8d7ddc9f86a
+run_name: Modelo Linear texp + horas
+run_uuid: b3fa965264e344a9bb34b8d7ddc9f86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683828096992
+status: 3
+tags: []
+user_id: Soares

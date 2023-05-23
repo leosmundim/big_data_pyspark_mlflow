@@ -1,0 +1,11 @@
+artifact_path: modelo_HLM2_estudante_escola_nulo
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.3.1
+model_uuid: 64225f6c8e7748c1b1fd66c3178ad63e
+run_id: ed838234b390467b9da8dd85b9370773
+utc_time_created: '2023-05-11 18:10:01.024650'

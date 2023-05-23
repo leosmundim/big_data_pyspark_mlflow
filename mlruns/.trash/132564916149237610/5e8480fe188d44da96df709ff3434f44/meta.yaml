@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/132564916149237610/5e8480fe188d44da96df709ff3434f44/artifacts
+deleted_time: 1683828425016
+end_time: 1683750142497
+entry_point_name: ''
+experiment_id: '132564916149237610'
+lifecycle_stage: deleted
+run_id: 5e8480fe188d44da96df709ff3434f44
+run_name: Modelo Linear Nulo
+run_uuid: 5e8480fe188d44da96df709ff3434f44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683750136314
+status: 3
+tags: []
+user_id: Soares

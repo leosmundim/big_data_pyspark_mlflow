@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114066202219217713/ed838234b390467b9da8dd85b9370773/artifacts
+end_time: 1683828606530
+entry_point_name: ''
+experiment_id: '114066202219217713'
+lifecycle_stage: active
+run_id: ed838234b390467b9da8dd85b9370773
+run_name: Modelo HLM2 Nulo
+run_uuid: ed838234b390467b9da8dd85b9370773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683828483072
+status: 3
+tags: []
+user_id: Soares

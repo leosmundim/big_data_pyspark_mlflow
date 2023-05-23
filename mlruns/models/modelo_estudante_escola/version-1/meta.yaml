@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683828829958
+current_stage: Production
+description: MODELO OLS
+last_updated_timestamp: 1683829808639
+name: modelo_estudante_escola
+run_id: 8fe99169dc404c77b1f593040136643d
+run_link: ''
+source: mlflow-artifacts:/114066202219217713/8fe99169dc404c77b1f593040136643d/artifacts/modelo_OLS_encapsulado_estudante_escola
+status: READY
+status_message: null
+user_id: null
+version: 1

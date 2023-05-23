@@ -1,0 +1,1 @@
+[{"run_id": "0a4bfefcf4ff4960b6e87ae2471c8c34", "artifact_path": "modelo_hlm2_intercepto_inclinacao", "utc_time_created": "2023-05-11 18:22:22.119080", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.2.1", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "8179802d4046498abfe9acfed873b91c", "mlflow_version": "2.3.1"}]

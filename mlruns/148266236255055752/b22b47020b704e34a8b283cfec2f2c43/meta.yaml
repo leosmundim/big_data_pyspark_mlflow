@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/leomu/OneDrive/MBA/Big%20Data/python/mlruns/148266236255055752/b22b47020b704e34a8b283cfec2f2c43/artifacts
+end_time: 1683756747083
+entry_point_name: ''
+experiment_id: '148266236255055752'
+lifecycle_stage: active
+run_id: b22b47020b704e34a8b283cfec2f2c43
+run_name: Modelo Logistico Inicial
+run_uuid: b22b47020b704e34a8b283cfec2f2c43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683756741604
+status: 3
+tags: []
+user_id: Soares

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/132564916149237610/f77d411026f441cda2689bf32cf3e143/artifacts
+deleted_time: 1683750221545
+end_time: 1683750055857
+entry_point_name: ''
+experiment_id: '132564916149237610'
+lifecycle_stage: deleted
+run_id: f77d411026f441cda2689bf32cf3e143
+run_name: Modelo Linear HLM2 Nulo - Encapsulado
+run_uuid: f77d411026f441cda2689bf32cf3e143
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683750049540
+status: 3
+tags: []
+user_id: Soares

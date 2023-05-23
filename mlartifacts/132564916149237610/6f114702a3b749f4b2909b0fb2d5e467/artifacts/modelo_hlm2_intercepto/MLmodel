@@ -1,0 +1,11 @@
+artifact_path: modelo_hlm2_intercepto
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.3.1
+model_uuid: 0d9a2882d3384f51b266086572fd163c
+run_id: 6f114702a3b749f4b2909b0fb2d5e467
+utc_time_created: '2023-05-10 20:51:02.629866'

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/114066202219217713/3ad30a9685ff444b9063994b48bb4f9d/artifacts
+end_time: 1683828666512
+entry_point_name: ''
+experiment_id: '114066202219217713'
+lifecycle_stage: active
+run_id: 3ad30a9685ff444b9063994b48bb4f9d
+run_name: Modelo HLM2 Nulo - Encapsulado
+run_uuid: 3ad30a9685ff444b9063994b48bb4f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1683828660487
+status: 3
+tags: []
+user_id: Soares

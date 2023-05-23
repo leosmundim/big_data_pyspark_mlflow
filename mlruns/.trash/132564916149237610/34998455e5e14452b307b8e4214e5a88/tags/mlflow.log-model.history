@@ -1,0 +1,1 @@
+[{"run_id": "34998455e5e14452b307b8e4214e5a88", "artifact_path": "modelo_hlm2_intercepto", "utc_time_created": "2023-05-10 20:55:23.093421", "flavors": {"sklearn": {"pickled_model": "model.pkl", "sklearn_version": "1.2.1", "serialization_format": "cloudpickle", "code": null}}, "model_uuid": "7360bf1049784b85b93b1211284bb7c5", "mlflow_version": "2.3.1"}]

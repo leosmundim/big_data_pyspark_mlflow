@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683756360203
+current_stage: None
+description: ''
+last_updated_timestamp: 1683756786971
+name: modelo_logistico_doenca
+run_id: acf5359a4ff144efb3bcc762a3af173f
+run_link: ''
+source: file:///C:/Users/leomu/OneDrive/MBA/Big%20Data/python/mlruns/148266236255055752/acf5359a4ff144efb3bcc762a3af173f/artifacts/modelo_logistico_doenca
+status: READY
+status_message: null
+user_id: null
+version: 1

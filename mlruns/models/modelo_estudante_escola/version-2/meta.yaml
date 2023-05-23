@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1683829427035
+current_stage: None
+description: MODELO HLM2
+last_updated_timestamp: 1683829798129
+name: modelo_estudante_escola
+run_id: 0a4bfefcf4ff4960b6e87ae2471c8c34
+run_link: ''
+source: mlflow-artifacts:/114066202219217713/0a4bfefcf4ff4960b6e87ae2471c8c34/artifacts/modelo_hlm2_intercepto_inclinacao
+status: READY
+status_message: null
+user_id: null
+version: 2

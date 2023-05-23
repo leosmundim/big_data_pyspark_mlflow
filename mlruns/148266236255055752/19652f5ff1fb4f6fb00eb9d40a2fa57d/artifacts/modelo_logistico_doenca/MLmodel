@@ -1,0 +1,11 @@
+artifact_path: modelo_logistico_doenca
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.3.1
+model_uuid: e502c56cfb16470e86094acb83fe30f6
+run_id: 19652f5ff1fb4f6fb00eb9d40a2fa57d
+utc_time_created: '2023-05-10 21:59:11.010772'
